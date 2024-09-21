@@ -43,7 +43,7 @@
 <a href="https://www.linkedin.com/in/hebert-lopes-dos-santos-2a4219244/">
     <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
 </a>
-<a  href="github.com/Fourt14n">
+<a  href="https://github.com/Fourt14n">
     <img height="30" src="https://img.shields.io/github/followers/Fourt14n.svg?style=social&label=Follow&maxAge=2592000" >
 </a>
 
