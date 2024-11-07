@@ -40,7 +40,7 @@
 <br>
 
 <div align="center">
-<a href="https://www.linkedin.com/in/hebert-lopes-dos-santos-2a4219244/">
+<a href="https://www.linkedin.com/in/hebert-lopes-2a4219244/">
     <img height="30" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" >
 </a>
 <a  href="https://github.com/Fourt14n">
