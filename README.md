@@ -5,8 +5,7 @@
 
 <div align="center">
     <p>👨‍💻Desenvolvimento de Sistemas - Senai <br> ❤️
-        Back-end <br> ⚙️
-        Java | C#</p>
+        Back-end <br>
 </div>
 
 
