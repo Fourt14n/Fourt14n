@@ -10,7 +10,7 @@
 
 
 <div width="50%" align="center" display="flex">
-    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Fourt14n&theme=onedark&rank_icon=github"/>
+    <img height="200" align="center" src="https://github-readme-stats.vercel.app/api?username=Fourt14n&theme=onedark"/>
     <img height="200" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fourt14n&theme=onedark&layout=donut&count_private=true"/>
 
 </div>
