@@ -10,6 +10,7 @@
     <li>💻 Desenvolvedor Backend</li>
     <li>🎓Técnico em Desenvolvimento de Sistemas</li>
     <li>📖Tecnologia da Informação - UNIVESP</li>
+    <li>🅰️AZ-900 - Microsoft Certified</li>
 </ul>
 
 
@@ -29,14 +30,6 @@
   <img src="https://skillicons.dev/icons?i=azure" height="60" alt="azure logo"  />
   <img width="12" />
 </div>
-
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=fourt14n&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="200" alt="streak graph"  />
-  <img height="200" src="https://github-readme-stats-eight-opal-45.vercel.app/api?username=Fourt14n&theme=onedark"/>
-</div>
-
 ###
 
 <picture>
